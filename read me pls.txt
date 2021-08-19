@@ -1,0 +1,7 @@
+antivirus
+This is a brief instruction on how to work the antivirus
+
+extract the zip file
+run virusdd
+complete the instructions inside the bat file
+anything caused by the antivirus is not my fault if anything goes wrong please dm me on discord dreaded tech suppor#5936 this name may change
